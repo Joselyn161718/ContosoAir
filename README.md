@@ -1,4 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/jsalavarria/ContosoAir/_apis/build/status/ContosoAir?branchName=main)](https://dev.azure.com/jsalavarria/ContosoAir/_build/latest?definitionId=7&branchName=main)
 
 
 # Microsoft.Github CI Demo
